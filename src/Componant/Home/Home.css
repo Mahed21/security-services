@@ -1,0 +1,36 @@
+.reg-color {
+  color: white;
+  background-color: #e14045;
+  display: inline;
+}
+.profile-text {
+  color: #e14045;
+  border: 3px solid black;
+  display: inline;
+  border-radius: 25px;
+}
+.profile-img {
+  width: 80px;
+  height: 80px;
+}
+.border {
+  width: 230px;
+  height: 5px;
+  background-color: black;
+}
+.border1 {
+  width: 150px;
+  height: 3px;
+  background-color: black;
+}
+.border2 {
+  width: 70px;
+  height: 3px;
+  background-color: black;
+}
+.security h5 {
+  font-weight: normal;
+}
+.col1 h5 {
+  font-family: "Times New Roman", Times, serif;
+}

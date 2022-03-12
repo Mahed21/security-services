@@ -1,0 +1,29 @@
+.text {
+  color: black !important;
+}
+.nav-customize {
+  box-shadow: 10px 10px 8px rgb(247, 242, 234);
+}
+.btn {
+  background-image: linear-gradient(
+    to right top,
+    #bb2026,
+    #c72b30,
+    #d3353a,
+    #e03f44,
+    #ec494f
+  );
+  color: white;
+  border: none !important;
+}
+.btn:hover {
+  background-image: linear-gradient(
+    to right top,
+    #dbd5ee,
+    #e1dcf0,
+    #e6e3f3,
+    #eceaf5,
+    #f2f1f7
+  );
+  color: black;
+}

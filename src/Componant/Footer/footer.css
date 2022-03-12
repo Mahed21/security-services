@@ -1,0 +1,15 @@
+.footer {
+  background-color: #282c2f;
+  color: white;
+}
+.head {
+  color: #5aeeda;
+}
+.fa {
+  color: white;
+}
+.col {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 15px;
+}
